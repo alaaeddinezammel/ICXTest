@@ -13,5 +13,7 @@ npm install
 
 then 
 
-ng serve 
+npm start 
 
+
+open browser on http://localhost:4200/
